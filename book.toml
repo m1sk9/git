@@ -9,6 +9,12 @@ authors = ["m1sk9 <me@m1sk9.dev>"]
 build-dir = "build"
 create-missing = false
 
+[output.html]
+git-repository-url = "https://github.com/m1sk9/git"
+edit-url-template = "https://github.com/m1sk9/git/edit/main/{path}"
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+
 [preprocessor.alerts]
 
 [preprocessor.pagetoc]
