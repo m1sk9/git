@@ -1,0 +1,14 @@
+[book]
+src = "src"
+title = "Git Reference"
+language = "ja"
+multilingual = false
+authors = ["m1sk9 <me@m1sk9.dev>"]
+
+[build]
+build-dir = "build"
+create-missing = false
+
+[preprocessor.alerts]
+
+[preprocessor.pagetoc]

@@ -1,0 +1,29 @@
+# ディスカッション用のラベル
+
+- name: "Q: Git"
+  description: "Git 全般に関する質問"
+  color: "#8f66ed"
+- name: "Q: GitHub"
+  description: "GitHub 全般に関する質問"
+  color: "#8f66ed"
+
+# プルリクエスト・Issue 用のラベル
+
+- name: "バグ"
+  description: "バグ報告"
+  color: "#d73a4a"
+- name: "誤字"
+  description: "誤字報告"
+  color: "#d73a4a"
+- name: "機能追加"
+  description: "機能追加の提案"
+  color: "#a2eeef"
+- name: "リファレンス追加・修正"
+  description: "ドキュメントの追加・修正"
+  color: "#a2eeef"
+- name: "リファクタリング"
+  description: "リファクタリング / 提案"
+  color: "#a2eeef"
+- name: "renovate"
+  description: "依存関係の追加・修正"
+  color: "#a2eeef"
